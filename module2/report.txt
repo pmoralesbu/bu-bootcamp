@@ -1,0 +1,1 @@
+Highest score: 100Lowest score: 25Grade Distribution:A (90 - 100): 5B (80 - 89): 3C (70 - 79): 2D (60 - 69): 2F (below 60): 4
