@@ -1,0 +1,1 @@
+I learned several things in this module in terms of working with GitHub.com and creating branches.  I must understand this better to work with a group settings. 
