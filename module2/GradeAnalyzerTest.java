@@ -38,4 +38,23 @@ public class GradeAnalyzerTest {
     assertEquals(88.0, GradeAnalyzer.calculateAverage(scores));
    }
 
+   @Test
+   void calculateAverage_getTotalAverageOfScores(){
+    ArrayList<Integer> scores = new ArrayList<>();
+    scores.add(100);
+    scores.add(80);
+    scores.add(90);
+    scores.add(70);
+    scores.add(65);
+    scores.add(54);
+    scores.add(20);
+    scores.add(56);
+    scores.add(10);
+    scores.add(87);
+
+    double x = GradeAnalyzer.calculateAverage(scores);
+    assertEquals(63.2 , x);
+
+   }
+
 }
